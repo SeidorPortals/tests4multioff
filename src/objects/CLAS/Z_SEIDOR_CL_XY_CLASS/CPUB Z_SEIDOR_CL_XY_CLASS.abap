@@ -1,0 +1,6 @@
+CLASS z_seidor_cl_xy_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
