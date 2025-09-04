@@ -11,6 +11,13 @@
     "readableSource": "false",
     "keepClient": "false"
   },
+  "dependencies": [
+    {
+      "name": "TestS480",
+      "version": "*",
+      "url": "https://github.com/SeidorPortals/TestS480"
+    }
+  ],
   "configurations": [
     {
       "key": "CLIENT_VCS_LOGLVL",
