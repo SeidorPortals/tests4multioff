@@ -1,7 +1,7 @@
   METHOD if_badi_fibrrei_wht~change_wht.
 
 
-" Lógica final: Recorrer cada línea de la tabla de retención y
+    " Lógica final: Recorrer cada línea de la tabla de retención y
     " dejar una "marca" en el campo de observación para confirmar
     " que el BAdI se ejecutó.
 
